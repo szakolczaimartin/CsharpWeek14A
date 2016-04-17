@@ -1,0 +1,5 @@
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\LookupCollections\bin\Debug\LookupCollections.exe.config
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\LookupCollections\bin\Debug\LookupCollections.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\LookupCollections\bin\Debug\LookupCollections.pdb
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\LookupCollections\obj\Debug\LookupCollections.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\LookupCollections\obj\Debug\LookupCollections.pdb

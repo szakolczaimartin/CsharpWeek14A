@@ -1,0 +1,6 @@
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week14A\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week14A\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week14A\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week14A\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.csprojResolveAssemblyReference.cache
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week14A\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\Week14A\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb

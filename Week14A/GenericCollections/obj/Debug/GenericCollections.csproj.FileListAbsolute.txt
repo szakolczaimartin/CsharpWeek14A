@@ -1,0 +1,6 @@
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\GenericCollections\bin\Debug\GenericCollections.exe.config
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\GenericCollections\bin\Debug\GenericCollections.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\GenericCollections\bin\Debug\GenericCollections.pdb
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\GenericCollections\obj\Debug\GenericCollections.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\GenericCollections\obj\Debug\GenericCollections.pdb
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\Week14A\GenericCollections\obj\Debug\GenericCollections.csprojResolveAssemblyReference.cache
